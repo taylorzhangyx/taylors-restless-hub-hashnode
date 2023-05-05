@@ -5,6 +5,7 @@ seoDescription: "Detailed explained ML workflow and its challenges technically a
 datePublished: Tue Apr 25 2023 13:40:55 GMT+0000 (Coordinated Universal Time)
 cuid: clgwbeyt4000o09mh9380cu79
 slug: mlops-challenges-and-values-with-tools
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683280373662/339284ab-bc2d-4b5f-af6b-6de8911afba9.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683216406135/df8a1fe4-8fc1-4d66-bddb-fbace4d988bf.png
 tags: ai, algorithms, devops, ml, mlops
 
