@@ -5,6 +5,8 @@ seoDescription: "Introducing an open-source project to demonstrate how to set up
 datePublished: Thu May 04 2023 15:47:52 GMT+0000 (Coordinated Universal Time)
 cuid: clh9awwg6000q09jv8u1u4tqt
 slug: devops-unify-api-defination-openapi-codegen-markdown
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683280882314/fa42983a-4148-40d6-85f2-d40827df12b9.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683280872484/751fe49f-8a8d-46ea-a930-553c87a0bc93.jpeg
 tags: documentation, apis, developer, automation, devops
 
 ---
@@ -80,7 +82,7 @@ OpenAPI 规范有助于提高 API 设计的质量和一致性，降低开发和�
 
 通过简单修改模板，实现了中文文档的输出：[中文自定义模板](https://github.com/taylorzhangyx/openapi-codegen-go/commit/717d38b52fa500d5300a74f0afa21a885e645acf)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683212636345/7a6b028a-7fd6-4546-a8a2-e0d8fc816eda.png align="left")
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683212636345/7a6b028a-7fd6-4546-a8a2-e0d8fc816eda.png align="center")](https://github.com/taylorzhangyx/openapi-codegen-go/commit/717d38b52fa500d5300a74f0afa21a885e645acf)
 
 ### 开发环境调试插件
 
@@ -93,11 +95,11 @@ OpenAPI 的生态已经比较健全，在多个 IDE 上都有插件可以直接�
 
 如下图，可直接通过 IDE 中的插件来打开 OpenAPI 定义文件来直接对接口进行调试。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683212647935/01f0628a-b993-4f22-8ace-dd189ce8e603.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683212647935/01f0628a-b993-4f22-8ace-dd189ce8e603.png align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683212655737/cff3806d-38f5-4a82-aab0-87d9323bbcb6.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683212655737/cff3806d-38f5-4a82-aab0-87d9323bbcb6.png align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683212663041/b484123f-055c-4f03-99b1-4265507998bb.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683212663041/b484123f-055c-4f03-99b1-4265507998bb.png align="center")
 
 ---
 
